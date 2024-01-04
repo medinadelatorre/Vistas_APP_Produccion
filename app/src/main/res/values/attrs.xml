@@ -1,0 +1,13 @@
+
+<resources>
+    <attr name="colorKubo_Azul" format="color" />
+    <attr name="colorOnKubo_Azul" format="color" />
+    <attr name="colorKubo_AzulContainer" format="color" />
+    <attr name="colorOnKubo_AzulContainer" format="color" />
+    <attr name="harmonizeKubo_Azul" format="boolean" />
+    <attr name="colorKubo_Rojo" format="color" />
+    <attr name="colorOnKubo_Rojo" format="color" />
+    <attr name="colorKubo_RojoContainer" format="color" />
+    <attr name="colorOnKubo_RojoContainer" format="color" />
+    <attr name="harmonizeKubo_Rojo" format="boolean" />
+</resources>
