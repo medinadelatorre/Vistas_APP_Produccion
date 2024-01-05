@@ -13,8 +13,21 @@
         android:theme="@style/Theme.Vistas_APP_Produccion"
         tools:targetApi="31">
         <activity
+            android:name=".salidaalmacen"
+            android:exported="false" />
+        <activity
+            android:name=".aux_exitoso"
+            android:exported="false" />
+        <activity
+            android:name=".reporte_produccion_input"
+            android:exported="false" />
+        <activity
             android:name=".ReporteProduccion"
             android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

@@ -5,6 +5,9 @@
     <string name="btn_aceptar">Aceptar</string>
     <string name="btn_cancelar">Cancelar</string>
     <string name="btn_agregar">Agregar</string>
-    <string name="txt_example_Almacen">BAIRA CHECADOR</string>
-
+    <string name="txt_example_almacen">BAIRA CHECADOR</string>
+    <string name="txt_titulo_agregar">Agregar producción:</string>
+    <string name="txt_titulo_salida">Barras a enviar:</string>
+    <string name="txt_hint_agregar">Inserte el número de barras</string>
+    <string name="txt_exitoso">Registro exitoso</string>
 </resources>
